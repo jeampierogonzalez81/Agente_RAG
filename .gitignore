@@ -1,0 +1,15 @@
+# Credenciales
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales Python
+__pycache__/
+*.pyc
+
+# Configuración local
+.vscode/
