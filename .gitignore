@@ -13,3 +13,12 @@ __pycache__/
 
 # Configuración local
 .vscode/
+.venv_respaldo/
+
+# Embeddings y bases vectoriales locales
+cache_embeddings/
+faiss_db/
+faiss_db_gemini/
+
+# Archivos del sistema
+.DS_Store
